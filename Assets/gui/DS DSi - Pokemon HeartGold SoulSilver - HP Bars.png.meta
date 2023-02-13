@@ -1,0 +1,6912 @@
+fileFormatVersion: 2
+guid: cae06fe2c11eea247bf49a644c1c629b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7115105477549689497
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_0
+  - first:
+      213: 5206114604852333187
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_1
+  - first:
+      213: 7734570644603798311
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_2
+  - first:
+      213: 6140070150298556069
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_3
+  - first:
+      213: -3794329472230274844
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_4
+  - first:
+      213: 5017570832091774848
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_5
+  - first:
+      213: 8936724676409305600
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_6
+  - first:
+      213: -6967240622219022273
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_7
+  - first:
+      213: 2646072174512042080
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_8
+  - first:
+      213: 9177949985090012808
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_9
+  - first:
+      213: -6879990111963026419
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_10
+  - first:
+      213: -6136448916689715393
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_11
+  - first:
+      213: 1655649409466793069
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_12
+  - first:
+      213: 4347269908259045505
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_13
+  - first:
+      213: 1197629794168014198
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_14
+  - first:
+      213: 5803425157487231393
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_15
+  - first:
+      213: -4148031266736097841
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_16
+  - first:
+      213: -4373396288292166715
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_17
+  - first:
+      213: -5435653012682502065
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_18
+  - first:
+      213: 5053904117018149694
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_19
+  - first:
+      213: 8694284531106146765
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_20
+  - first:
+      213: -7730122135352853610
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_21
+  - first:
+      213: -8227175183290022210
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_22
+  - first:
+      213: -7560831298701116485
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_23
+  - first:
+      213: -49958011738610224
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_24
+  - first:
+      213: 6780982098355365361
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_25
+  - first:
+      213: 4213884779591372054
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_26
+  - first:
+      213: 4607772171372235690
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_27
+  - first:
+      213: -8298643967784277129
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_28
+  - first:
+      213: -8239982731605033762
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_29
+  - first:
+      213: -2503941095040498920
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_30
+  - first:
+      213: -8172500457259348472
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_31
+  - first:
+      213: -6845222387367158020
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_32
+  - first:
+      213: -7663434364141291826
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_33
+  - first:
+      213: -3758508744549743552
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_34
+  - first:
+      213: -8141922148656632277
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_35
+  - first:
+      213: -3267421413329388579
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_36
+  - first:
+      213: 537186937199318155
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_37
+  - first:
+      213: -8932507568830537047
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_38
+  - first:
+      213: -659051057018821598
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_39
+  - first:
+      213: -3521194309544534599
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_40
+  - first:
+      213: 8172830931192892409
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_41
+  - first:
+      213: -4676775756169848384
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_42
+  - first:
+      213: 7050200105310285324
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_43
+  - first:
+      213: -1149050950164258225
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_44
+  - first:
+      213: -3725058782454689440
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_45
+  - first:
+      213: 6965101433395426831
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_46
+  - first:
+      213: -6264449003179724513
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_47
+  - first:
+      213: -716045588389437655
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_48
+  - first:
+      213: -4471428446469728557
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_49
+  - first:
+      213: -3119332326560083471
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_50
+  - first:
+      213: 3572093093694910340
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_51
+  - first:
+      213: -4491142499448292582
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_52
+  - first:
+      213: 8471083237222773566
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_53
+  - first:
+      213: -347124062636620310
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_54
+  - first:
+      213: -6102032463655244881
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_55
+  - first:
+      213: 3709896026183981998
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_56
+  - first:
+      213: 2828256006807733890
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_57
+  - first:
+      213: -3726630686428584006
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_58
+  - first:
+      213: 8121659941400413120
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_59
+  - first:
+      213: -567292180238636866
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_60
+  - first:
+      213: -7114824783279317440
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_61
+  - first:
+      213: -4879223761234751235
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_62
+  - first:
+      213: 6144505858067684676
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_63
+  - first:
+      213: 147791148191070271
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_64
+  - first:
+      213: -3718675323934212096
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_65
+  - first:
+      213: 7112805176098239764
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_66
+  - first:
+      213: 329257014365286144
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_67
+  - first:
+      213: -6943646631299071714
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_68
+  - first:
+      213: -4003015081278185637
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_69
+  - first:
+      213: -374706413166846288
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_70
+  - first:
+      213: -7328206433982197220
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_71
+  - first:
+      213: 5173753178161505603
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_72
+  - first:
+      213: -8632517791990474754
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_73
+  - first:
+      213: 2913401257767563512
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_74
+  - first:
+      213: 9089090305768306950
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_75
+  - first:
+      213: -3628546004760502306
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_76
+  - first:
+      213: 8981776728109897765
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_77
+  - first:
+      213: -6391579344048172223
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_78
+  - first:
+      213: 4660421317253105604
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_79
+  - first:
+      213: 2286365430422659508
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_80
+  - first:
+      213: 4323966446673823702
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_81
+  - first:
+      213: -3708100662019495386
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_82
+  - first:
+      213: -785579247087850086
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_83
+  - first:
+      213: -1625319380467612358
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_84
+  - first:
+      213: 2356510552988193690
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_85
+  - first:
+      213: -1987942545197737054
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_86
+  - first:
+      213: -5598365350461036143
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_87
+  - first:
+      213: -3445465697712723388
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_88
+  - first:
+      213: -7741773018567158113
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_89
+  - first:
+      213: 2484981335330854297
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_90
+  - first:
+      213: 3444327609273577988
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_91
+  - first:
+      213: -5677426353517351064
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_92
+  - first:
+      213: -8096335888668134091
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_93
+  - first:
+      213: -2905655681563679307
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_94
+  - first:
+      213: -7780393847315175976
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_95
+  - first:
+      213: -7866039665004811867
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_96
+  - first:
+      213: 8405334715257470005
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_97
+  - first:
+      213: 214158610637938348
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_98
+  - first:
+      213: 4634297768462824981
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_99
+  - first:
+      213: 4200040372422390693
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_100
+  - first:
+      213: 8454642091912752018
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_101
+  - first:
+      213: -4037258995455843436
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_102
+  - first:
+      213: 2637366110942139518
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_103
+  - first:
+      213: -4553515327007337514
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_104
+  - first:
+      213: -5025545916722203013
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_105
+  - first:
+      213: 3789081729054455493
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_106
+  - first:
+      213: 2871299282482651496
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_107
+  - first:
+      213: -2961672533123450022
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_108
+  - first:
+      213: -3625161706663329302
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_109
+  - first:
+      213: -6077208958666251620
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_110
+  - first:
+      213: 7602616691129013329
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_111
+  - first:
+      213: -4316431220042767579
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_112
+  - first:
+      213: -1888247012385071727
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_113
+  - first:
+      213: -6750661761639089508
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_114
+  - first:
+      213: -5398876550570509515
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_115
+  - first:
+      213: 2822796442793837064
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_116
+  - first:
+      213: 7886634844615410473
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_117
+  - first:
+      213: -6887101292852660606
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_118
+  - first:
+      213: -8466227624214815380
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_119
+  - first:
+      213: -2404697004000563183
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_120
+  - first:
+      213: -3118992327889885126
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_121
+  - first:
+      213: -5019255269120256355
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_122
+  - first:
+      213: 2813166723358070547
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_123
+  - first:
+      213: -7341046063347385889
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_124
+  - first:
+      213: -79136804510937564
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_125
+  - first:
+      213: 4979773148641836800
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_126
+  - first:
+      213: -2928603062577491644
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_127
+  - first:
+      213: -2800070353835297914
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_128
+  - first:
+      213: -2719066927666547647
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_129
+  - first:
+      213: -6989385272961322275
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_130
+  - first:
+      213: 9172299190220210864
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_131
+  - first:
+      213: 1660997745877355473
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_132
+  - first:
+      213: -6184767246412910867
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_133
+  - first:
+      213: -9209908183458910497
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_134
+  - first:
+      213: 579710718087730887
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_135
+  - first:
+      213: 527527112425365234
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_136
+  - first:
+      213: 8252907202439340430
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_137
+  - first:
+      213: 103789919245564585
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_138
+  - first:
+      213: -5495263198184164259
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_139
+  - first:
+      213: -7987245290351449590
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_140
+  - first:
+      213: -5080523025651690934
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_141
+  - first:
+      213: -5961759044141796569
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_142
+  - first:
+      213: 1511270636706371993
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_143
+  - first:
+      213: -6448069792340907365
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_144
+  - first:
+      213: -4153459346624591893
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_145
+  - first:
+      213: 4872396685075998591
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_146
+  - first:
+      213: 6632165931872293368
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_147
+  - first:
+      213: -5000075228715766256
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_148
+  - first:
+      213: -5003418173375776329
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_149
+  - first:
+      213: -254010650613671904
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_150
+  - first:
+      213: -3462026033239785191
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_151
+  - first:
+      213: 5665939377995009987
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_152
+  - first:
+      213: 6122070266058763986
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_153
+  - first:
+      213: 8430582390053816991
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_154
+  - first:
+      213: -2394715867572693004
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_155
+  - first:
+      213: 8198453902699169545
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_156
+  - first:
+      213: 727532593036009949
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_157
+  - first:
+      213: 2751267734118884683
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_158
+  - first:
+      213: 1454337007686995761
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_159
+  - first:
+      213: -6496610884544299717
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_160
+  - first:
+      213: -5418818026786152651
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_161
+  - first:
+      213: -5019253537271545852
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_162
+  - first:
+      213: 967737747715182510
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_163
+  - first:
+      213: 8352990092838532886
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_164
+  - first:
+      213: -8158356014347421816
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_165
+  - first:
+      213: -6397349370701956140
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_166
+  - first:
+      213: 4338615734591720484
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_167
+  - first:
+      213: -8749308350606285055
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_168
+  - first:
+      213: -4485345671723554397
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_169
+  - first:
+      213: -8208538606910508822
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_170
+  - first:
+      213: -4977451427901286183
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_171
+  - first:
+      213: 2190487334056812058
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_172
+  - first:
+      213: 1094994346322217557
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_173
+  - first:
+      213: 977846375256035715
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_174
+  - first:
+      213: -8550492630022696442
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_175
+  - first:
+      213: -432162398942228819
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_176
+  - first:
+      213: 8221615755705001403
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_177
+  - first:
+      213: -3251245755557400057
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_178
+  - first:
+      213: -5387670970767575379
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_179
+  - first:
+      213: 3906900617106260836
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_180
+  - first:
+      213: -6579258079503481508
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_181
+  - first:
+      213: 4166131487945657561
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_182
+  - first:
+      213: 9063884686029109513
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_183
+  - first:
+      213: -2402086206422627265
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_184
+  - first:
+      213: 6983031468977994407
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_185
+  - first:
+      213: 2976963470137361357
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_186
+  - first:
+      213: -2396383874180526611
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_187
+  - first:
+      213: -5213527984392456105
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_188
+  - first:
+      213: 8827228710755809091
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_189
+  - first:
+      213: -4697331595873231703
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_190
+  - first:
+      213: 3191707302876137646
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_191
+  - first:
+      213: 8112988837613884794
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_192
+  - first:
+      213: 2087550577490583790
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_193
+  - first:
+      213: 4235766945664203693
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_194
+  - first:
+      213: 8688882932518229927
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_195
+  - first:
+      213: 4255286022467581799
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_196
+  - first:
+      213: 5809633075508992307
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_197
+  - first:
+      213: -1963598109283999749
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_198
+  - first:
+      213: -5250861499994597366
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_199
+  - first:
+      213: -932031431879146773
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_200
+  - first:
+      213: 8349263429170529919
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_201
+  - first:
+      213: 1918257211897131080
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_202
+  - first:
+      213: -68713520820568833
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_203
+  - first:
+      213: 7074619928738547431
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_204
+  - first:
+      213: 8373769791621972631
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_205
+  - first:
+      213: -8526388059932525367
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_206
+  - first:
+      213: -9104026074953392451
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_207
+  - first:
+      213: 8578483423826232369
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_208
+  - first:
+      213: 5383035863283613230
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_209
+  - first:
+      213: 3195514092012616470
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_210
+  - first:
+      213: -4760226333744715792
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_211
+  - first:
+      213: 5949602597213548237
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_212
+  - first:
+      213: 8967657671344244923
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_213
+  - first:
+      213: -887887795127284131
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_214
+  - first:
+      213: -71328156157238394
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_215
+  - first:
+      213: -8951209110483181704
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_216
+  - first:
+      213: -6077406759270211237
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_217
+  - first:
+      213: 1152813423226922511
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_218
+  - first:
+      213: 2825082415639606408
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_219
+  - first:
+      213: 7226247547191858304
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_220
+  - first:
+      213: -5946443895173618356
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_221
+  - first:
+      213: -3953606400129625796
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_222
+  - first:
+      213: 4733370907903586615
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_223
+  - first:
+      213: 135380755601754173
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_224
+  - first:
+      213: 2613770585795583637
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_225
+  - first:
+      213: -2407497619227990029
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_226
+  - first:
+      213: 3504972641040117318
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_227
+  - first:
+      213: -7593542027431725585
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_228
+  - first:
+      213: 1152601552298962443
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_229
+  - first:
+      213: 7649784551429442211
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_230
+  - first:
+      213: 8947121550221758123
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_231
+  - first:
+      213: -7773564689933216000
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_232
+  - first:
+      213: -8218982391618303749
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_233
+  - first:
+      213: 667258725127882380
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_234
+  - first:
+      213: -5630626736084949606
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_235
+  - first:
+      213: -8862729458661164526
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_236
+  - first:
+      213: 1955347840833050255
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_237
+  - first:
+      213: -5647035388872363923
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_238
+  - first:
+      213: 5474031863739450492
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_239
+  - first:
+      213: 6860083019800196221
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_240
+  - first:
+      213: -5743320647423855034
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_241
+  - first:
+      213: 5316190432213905547
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_242
+  - first:
+      213: 5575021854745773533
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_243
+  - first:
+      213: 7582934130293676930
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_244
+  - first:
+      213: -4271117788881831829
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_245
+  - first:
+      213: -6818144705221095197
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_246
+  - first:
+      213: -5874634121010722086
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_247
+  - first:
+      213: 8903984535285717039
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_248
+  - first:
+      213: -4014956860564084398
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_249
+  - first:
+      213: -4593012070419456230
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_250
+  - first:
+      213: -3154927016181286954
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_251
+  - first:
+      213: -624380813289437472
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_252
+  - first:
+      213: -7021301446456791399
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_253
+  - first:
+      213: -8467090103225031266
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_254
+  - first:
+      213: -2078545954082837415
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_255
+  - first:
+      213: 5344794927038183781
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_256
+  - first:
+      213: 2991454485322127746
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_257
+  - first:
+      213: 8758792176185366449
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_258
+  - first:
+      213: -3315701336933767115
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_259
+  - first:
+      213: -4208043145200016287
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_260
+  - first:
+      213: 1727816331710893564
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_261
+  - first:
+      213: 1679238841541843540
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_262
+  - first:
+      213: 7620617679663822301
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_263
+  - first:
+      213: 6138194051825993176
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_264
+  - first:
+      213: -7093388625032109552
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_265
+  - first:
+      213: 3249015294253843181
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_266
+  - first:
+      213: -1898162852780858810
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_267
+  - first:
+      213: 6499889874962783989
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_268
+  - first:
+      213: -8589368235589134710
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_269
+  - first:
+      213: 2676298432525367327
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_270
+  - first:
+      213: -4258600666407001922
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_271
+  - first:
+      213: 8864426273233409038
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_272
+  - first:
+      213: -623522193089877462
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_273
+  - first:
+      213: -2780055073886823873
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_274
+  - first:
+      213: -3637706601590441324
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_275
+  - first:
+      213: 2922791569282275311
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_276
+  - first:
+      213: -3093157411348281232
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_277
+  - first:
+      213: -506453634986390547
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_278
+  - first:
+      213: -9074456899594043631
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_279
+  - first:
+      213: -4433925907938194864
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_280
+  - first:
+      213: -2277913971662830753
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_281
+  - first:
+      213: 8381682679282920071
+    second: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_282
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 181
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a09c00cbeedb260800000000000000
+      internalID: 7115105477549689497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a423266a5df3840800000000000000
+      internalID: 5206114604852333187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 181
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72306c19507b65b60800000000000000
+      internalID: 7734570644603798311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 181
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6568c2549e53550800000000000000
+      internalID: 6140070150298556069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e84beeb275d75bc0800000000000000
+      internalID: -3794329472230274844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ff03a661ef1a540800000000000000
+      internalID: 5017570832091774848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 181
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a28d09ebf950c70800000000000000
+      internalID: 8936724676409305600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 181
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30b6ff61936f4f90800000000000000
+      internalID: -6967240622219022273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060f5db8f9cb8b420800000000000000
+      internalID: 2646072174512042080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886879372e0ae5f70800000000000000
+      internalID: 9177949985090012808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 181
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c6e36e17d5580a0800000000000000
+      internalID: -6879990111963026419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 181
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff06af834f6daa0800000000000000
+      internalID: -6136448916689715393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 181
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c7adbad5c0af610800000000000000
+      internalID: 1655649409466793069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 181
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1808680e2fa945c30800000000000000
+      internalID: 4347269908259045505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 181
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6750fc5d3f5de9010800000000000000
+      internalID: 1197629794168014198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 181
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a18790de68e98050800000000000000
+      internalID: 5803425157487231393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 181
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc53bf44a8b3f66c0800000000000000
+      internalID: -4148031266736097841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3655e3f339e43c0800000000000000
+      internalID: -4373396288292166715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 181
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4017c0626ea094b0800000000000000
+      internalID: -5435653012682502065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 181
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3340c78403132640800000000000000
+      internalID: 5053904117018149694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 181
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc961cc77bd48a870800000000000000
+      internalID: 8694284531106146765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb8e3bfd619b490800000000000000
+      internalID: -7730122135352853610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 181
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6c61f92c333dd80800000000000000
+      internalID: -8227175183290022210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 181
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbb34a2ef7821790800000000000000
+      internalID: -7560831298701116485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 181
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5a2a8f3738e4ff0800000000000000
+      internalID: -49958011738610224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 181
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f521c09a43ea1e50800000000000000
+      internalID: 6780982098355365361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 181
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d08f381e9ba7a30800000000000000
+      internalID: 4213884779591372054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 181
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab8298706812ff30800000000000000
+      internalID: 4607772171372235690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_28
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 181
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba7c6874b45dc80800000000000000
+      internalID: -8298643967784277129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 183
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc3457ec53b5ad80800000000000000
+      internalID: -8239982731605033762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813cb9b27d6304dd0800000000000000
+      internalID: -2503941095040498920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec6564222759e80800000000000000
+      internalID: -8172500457259348472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfedd689182e001a0800000000000000
+      internalID: -6845222387367158020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 183
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec636d56c0306a590800000000000000
+      internalID: -7663434364141291826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044c9e3d53817dbc0800000000000000
+      internalID: -3758508744549743552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eaf6c81f4120f80800000000000000
+      internalID: -8141922148656632277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_36
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb3ffe3989c7a2d0800000000000000
+      internalID: -3267421413329388579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 181
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84deb95ca8747700800000000000000
+      internalID: 537186937199318155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_38
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a22e5e41bb590480800000000000000
+      internalID: -8932507568830537047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2242c813e849ad6f0800000000000000
+      internalID: -659051057018821598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd987a7e64322fc0800000000000000
+      internalID: -3521194309544534599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc31f2e6abb6170800000000000000
+      internalID: 8172830931192892409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c956577a31c81fb0800000000000000
+      internalID: -4676775756169848384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_43
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 183
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ee07864a757d160800000000000000
+      internalID: 7050200105310285324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 183
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4262aeaf30cd00f0800000000000000
+      internalID: -1149050950164258225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_45
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061d65806ceed4cc0800000000000000
+      internalID: -3725058782454689440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06391ad9d209a060800000000000000
+      internalID: 6965101433395426831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_47
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113ce372d43019a0800000000000000
+      internalID: -6264449003179724513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_48
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 183
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fdf05c4581016f0800000000000000
+      internalID: -716045588389437655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_49
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d65891c48b42f1c0800000000000000
+      internalID: -4471428446469728557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_50
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 181
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f15ef2a6c7e5b4d0800000000000000
+      internalID: -3119332326560083471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_51
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48faf423ebf929130800000000000000
+      internalID: 3572093093694910340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b79bc11b14ca1c0800000000000000
+      internalID: -4491142499448292582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_53
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33fd6192555f8570800000000000000
+      internalID: 8471083237222773566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_54
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5cd811184ce2bf0800000000000000
+      internalID: -347124062636620310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_55
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 183
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6de3edc9315ba0800000000000000
+      internalID: -6102032463655244881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab545aa7c23c7330800000000000000
+      internalID: 3709896026183981998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_57
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 183
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c3ab7adbff3720800000000000000
+      internalID: 2828256006807733890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_58
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 183
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7aa5e9229584cc0800000000000000
+      internalID: -3726630686428584006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_59
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c301b1bfaee5b070800000000000000
+      internalID: 8121659941400413120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_60
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e40984c29028f0800000000000000
+      internalID: -567292180238636866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_61
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 183
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e9d793e80134d90800000000000000
+      internalID: -7114824783279317440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_62
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df015f327d3894cb0800000000000000
+      internalID: -4879223761234751235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_63
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d5e6ed58ba54550800000000000000
+      internalID: 6144505858067684676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_64
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 181
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3830e8244f0d0200800000000000000
+      internalID: 147791148191070271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_65
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 183
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00004e9ce7c946cc0800000000000000
+      internalID: -3718675323934212096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 183
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41535e55f92c5b260800000000000000
+      internalID: 7112805176098239764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_67
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 183
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f6c059281c19400800000000000000
+      internalID: 329257014365286144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_68
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 183
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11c4978d2633af90800000000000000
+      internalID: -6943646631299071714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_69
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fd1e11efe6278c0800000000000000
+      internalID: -4003015081278185637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_70
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 181
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be1124a086cccaf0800000000000000
+      internalID: -374706413166846288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_71
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1252c5231bfc4a90800000000000000
+      internalID: -7328206433982197220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_72
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 183
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456dd39a1ddcc740800000000000000
+      internalID: 5173753178161505603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_73
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 181
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef71b232ec2233880800000000000000
+      internalID: -8632517791990474754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_74
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 152
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07961120b7e6820800000000000000
+      internalID: 2913401257767563512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_75
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 134
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60934ce1a7fe22e70800000000000000
+      internalID: 9089090305768306950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_76
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 152
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf561f22a0d4adc0800000000000000
+      internalID: -3628546004760502306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_77
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 152
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5285cd2c85ea5ac70800000000000000
+      internalID: 8981776728109897765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 152
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d84c537c8c47a0800000000000000
+      internalID: -6391579344048172223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_79
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 152
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7878efe742da040800000000000000
+      internalID: 4660421317253105604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_80
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 152
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1631bce3dcabf10800000000000000
+      internalID: 2286365430422659508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 152
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d783bae290d10c30800000000000000
+      internalID: 4323966446673823702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 152
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aefe0281e2a8cc0800000000000000
+      internalID: -3708100662019495386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 152
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9de86246df0915f0800000000000000
+      internalID: -785579247087850086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_84
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 152
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a358ba082a4b179e0800000000000000
+      internalID: -1625319380467612358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_85
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 152
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931254dcd104b020800000000000000
+      internalID: 2356510552988193690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_86
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 152
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab5a97a9c86964e0800000000000000
+      internalID: -1987942545197737054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_87
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 152
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1992aea006c9e42b0800000000000000
+      internalID: -5598365350461036143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_88
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 152
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a2a0ae33f3f20d0800000000000000
+      internalID: -3445465697712723388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_89
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 145
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96d9901572bf8490800000000000000
+      internalID: -7741773018567158113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_90
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 149
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9951fd5cb5d6c7220800000000000000
+      internalID: 2484981335330854297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 149
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40272d836b5bccf20800000000000000
+      internalID: 3444327609273577988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_92
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 149
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f2820dfcab531b0800000000000000
+      internalID: -5677426353517351064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 149
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53570bdc76904af80800000000000000
+      internalID: -8096335888668134091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 149
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b52dcc6d890da7d0800000000000000
+      internalID: -2905655681563679307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_95
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 149
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e426a40d760490800000000000000
+      internalID: -7780393847315175976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_96
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 149
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9614ac99636d290800000000000000
+      internalID: -7866039665004811867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_97
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 149
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3e21e36fb5a470800000000000000
+      internalID: 8405334715257470005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_98
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 149
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5aa82f18d8f200800000000000000
+      internalID: 214158610637938348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516bc905445505040800000000000000
+      internalID: 4634297768462824981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_100
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 59
+        width: 369
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a33988477a894a30800000000000000
+      internalID: 4200040372422390693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 135
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b668f103ce45570800000000000000
+      internalID: 8454642091912752018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_102
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 134
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493aa9d7556c8f7c0800000000000000
+      internalID: -4037258995455843436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_103
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 134
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e741c59218ec99420800000000000000
+      internalID: 2637366110942139518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_104
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 132
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d35e668fe9aec0c0800000000000000
+      internalID: -4553515327007337514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_105
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 134
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76bb5f7d9ca14ab0800000000000000
+      internalID: -5025545916722203013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_106
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b635d1c5859430800000000000000
+      internalID: 3789081729054455493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_107
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86166301c77e8d720800000000000000
+      internalID: 2871299282482651496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_108
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 134
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b3522d58606e6d0800000000000000
+      internalID: -2961672533123450022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_109
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 134
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1cbfc72a6d0bdc0800000000000000
+      internalID: -3625161706663329302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_110
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 134
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9260e886aa69aba0800000000000000
+      internalID: -6077208958666251620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_111
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1545336a99be18960800000000000000
+      internalID: 7602616691129013329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_112
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 134
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e1ffbca4f814c0800000000000000
+      internalID: -4316431220042767579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_113
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 134
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d589ab8599bc5e0800000000000000
+      internalID: -1888247012385071727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_114
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 134
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a70b2f4e4d052a0800000000000000
+      internalID: -6750661761639089508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_115
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bfe09b1665315b0800000000000000
+      internalID: -5398876550570509515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_116
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80286fda8669c2720800000000000000
+      internalID: 2822796442793837064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_117
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92305822b94f27d60800000000000000
+      internalID: 7886634844615410473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_118
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 110
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28632631dd91c60a0800000000000000
+      internalID: -6887101292852660606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_119
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 110
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d931fe4dae18a80800000000000000
+      internalID: -8466227624214815380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b914c0dcc0aed0800000000000000
+      internalID: -2404697004000563183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_121
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3864feb00d17b4d0800000000000000
+      internalID: -3118992327889885126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_122
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 110
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9654170de5085ab0800000000000000
+      internalID: -5019255269120256355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_123
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 110
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31715b7ea306a0720800000000000000
+      internalID: 2813166723358070547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_124
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9366aff7d5f1a90800000000000000
+      internalID: -7341046063347385889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_125
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 110
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e477ede79d6eef0800000000000000
+      internalID: -79136804510937564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f33d27b45bb1540800000000000000
+      internalID: 4979773148641836800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_127
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 110
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44192fee7038b57d0800000000000000
+      internalID: -2928603062577491644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_128
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 110
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6837b8d39d62429d0800000000000000
+      internalID: -2800070353835297914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_129
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1443ce7190fe34ad0800000000000000
+      internalID: -2719066927666547647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_130
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd23bc62027b00f90800000000000000
+      internalID: -6989385272961322275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_131
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2cdae348d8a4f70800000000000000
+      internalID: 9172299190220210864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_132
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 110
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db8eb746ac0d0710800000000000000
+      internalID: 1660997745877355473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_133
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 110
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee661b25fa4b2aa0800000000000000
+      internalID: -6184767246412910867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_134
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 110
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee7f6ad45df2080800000000000000
+      internalID: -9209908183458910497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_135
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c61b10a3db8b0800800000000000000
+      internalID: 579710718087730887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_136
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 110
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe50812d17225700800000000000000
+      internalID: 527527112425365234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_137
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 60
+        width: 128
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81e8a5ff57388270800000000000000
+      internalID: 8252907202439340430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_138
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 72
+        width: 122
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf5e3b16cb07100800000000000000
+      internalID: 103789919245564585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_139
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b4f48c37ecb3b0800000000000000
+      internalID: -5495263198184164259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_140
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa0b60aba972190800000000000000
+      internalID: -7987245290351449590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4296d6d93b5e79b0800000000000000
+      internalID: -5080523025651690934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_142
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 48
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723b4717cb3934da0800000000000000
+      internalID: -5961759044141796569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_143
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 46
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9999c5413ac19f410800000000000000
+      internalID: 1511270636706371993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_144
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 48
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ae79cefaad386a0800000000000000
+      internalID: -6448069792340907365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_145
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 48
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be74a6feab2fb56c0800000000000000
+      internalID: -4153459346624591893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_146
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4
+        width: 128
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77eeb258fa3e9340800000000000000
+      internalID: 4872396685075998591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_147
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 40
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.52467257, y: 0.48709488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f112bcb6cf2a0c50800000000000000
+      internalID: 6632165931872293368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_148
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 43
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eaa2e221a2c9ab0800000000000000
+      internalID: -5000075228715766256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_149
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 43
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9f3393ea9409ab0800000000000000
+      internalID: -5003418173375776329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_150
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289109b8a2997cf0800000000000000
+      internalID: -254010650613671904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_151
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91186955aa964ffc0800000000000000
+      internalID: -3462026033239785191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_152
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf4a4848d571ae40800000000000000
+      internalID: 5665939377995009987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_153
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dee96a8876f5f450800000000000000
+      internalID: 6122070266058763986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_154
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a42d044027ff470800000000000000
+      internalID: 8430582390053816991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_155
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 45
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7965f2b9244ced0800000000000000
+      internalID: -2394715867572693004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_156
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 45
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078cc12362c6c170800000000000000
+      internalID: 8198453902699169545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_157
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd12e6ae907b81a00800000000000000
+      internalID: 727532593036009949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_158
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 45
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4566266d677e2620800000000000000
+      internalID: 2751267734118884683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_159
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f43e69dc7de2410800000000000000
+      internalID: 1454337007686995761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_160
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dfcce22d667d5a0800000000000000
+      internalID: -6496610884544299717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_161
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f9deaf6bd7cc4b0800000000000000
+      internalID: -5418818026786152651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_162
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 45
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4008e414087085ab0800000000000000
+      internalID: -5019253537271545852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_163
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafcc40ba581e6d00800000000000000
+      internalID: 967737747715182510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_164
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6177fffbb38cbe370800000000000000
+      internalID: 8352990092838532886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_165
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88776a50e62b7ce80800000000000000
+      internalID: -8158356014347421816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_166
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbbd3754ac0837a0800000000000000
+      internalID: -6397349370701956140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_167
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c824d060cd53c30800000000000000
+      internalID: 4338615734591720484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_168
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 45
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107e0c33966349680800000000000000
+      internalID: -8749308350606285055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_169
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e41e30e9d0c1c0800000000000000
+      internalID: -4485345671723554397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_170
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f402b0a9651e80800000000000000
+      internalID: -8208538606910508822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_171
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 45
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8de294c4a8ceab0800000000000000
+      internalID: -4977451427901286183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_172
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 45
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ed277ef9c266e10800000000000000
+      internalID: 2190487334056812058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_173
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ac8937e83323f00800000000000000
+      internalID: 1094994346322217557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_174
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3811a02f812029d00800000000000000
+      internalID: 977846375256035715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_175
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602d6e4614c865980800000000000000
+      internalID: -8550492630022696442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_176
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 45
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae84cd7696a00af0800000000000000
+      internalID: -432162398942228819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_177
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52d8648fb091270800000000000000
+      internalID: 8221615755705001403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_178
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 45
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702318e063141e2d0800000000000000
+      internalID: -3251245755557400057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_179
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6f6b41cc52b35b0800000000000000
+      internalID: -5387670970767575379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_180
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 43
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638f5f5969183630800000000000000
+      internalID: 3906900617106260836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_181
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55839592a7c1b4a0800000000000000
+      internalID: -6579258079503481508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_182
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 43
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc0292e38211d930800000000000000
+      internalID: 4166131487945657561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_183
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9093ed3791369cd70800000000000000
+      internalID: 9063884686029109513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_184
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 43
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c405272531aaed0800000000000000
+      internalID: -2402086206422627265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_185
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aabec39f16b8e060800000000000000
+      internalID: 6983031468977994407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_186
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 43
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc30ad2e08c405920800000000000000
+      internalID: 2976963470137361357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_187
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 122
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedcef120955ebed0800000000000000
+      internalID: -2396383874180526611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_188
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 40
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758babfabe3d5a7b0800000000000000
+      internalID: -5213527984392456105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_189
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347bab76ebd908a70800000000000000
+      internalID: 8827228710755809091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_190
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 31
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acd1c31dc9bfceb0800000000000000
+      internalID: -4697331595873231703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_191
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 31
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c3fea1e83b4c20800000000000000
+      internalID: 3191707302876137646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_192
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 31
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a755fa40d50279070800000000000000
+      internalID: 8112988837613884794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_193
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0ecfd903878fc10800000000000000
+      internalID: 2087550577490583790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_194
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabf7a3589778ca30800000000000000
+      internalID: 4235766945664203693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_195
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 31
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a714bfcdfc159870800000000000000
+      internalID: 8688882932518229927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_196
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677dda8710dd0b30800000000000000
+      internalID: 4255286022467581799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_197
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339d21d5086ff9050800000000000000
+      internalID: 5809633075508992307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_198
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff9f765ce5efb4e0800000000000000
+      internalID: -1963598109283999749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_199
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081c0839413127b0800000000000000
+      internalID: -5250861499994597366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_200
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2485fc952c013f0800000000000000
+      internalID: -932031431879146773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_201
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f768edf3ada8ed370800000000000000
+      internalID: 8349263429170529919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_202
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840b5f655c40f9a10800000000000000
+      internalID: 1918257211897131080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc3938ba61eb0ff0800000000000000
+      internalID: -68713520820568833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_204
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e64c5d97591e2260800000000000000
+      internalID: 7074619928738547431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_205
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 31
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7924684624b953470800000000000000
+      internalID: 8373769791621972631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_206
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccf696fb3f2ca980800000000000000
+      internalID: -8526388059932525367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_207
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe5280258008a180800000000000000
+      internalID: -9104026074953392451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_208
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 31
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1344db42935ec0770800000000000000
+      internalID: 8578483423826232369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_209
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e353cd89264ba40800000000000000
+      internalID: 5383035863283613230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_210
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 31
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bba29d22fb85c20800000000000000
+      internalID: 3195514092012616470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_211
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 31
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7afa6ce5740fdb0800000000000000
+      internalID: -4760226333744715792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_212
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 32
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea7a13a0c319250800000000000000
+      internalID: 5949602597213548237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_213
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c7cfa325837c70800000000000000
+      internalID: 8967657671344244923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_214
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e880b21c69da3f0800000000000000
+      internalID: -887887795127284131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_215
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683a3cd7b67920ff0800000000000000
+      internalID: -71328156157238394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_216
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fd8635dbae6c380800000000000000
+      internalID: -8951209110483181704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_217
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 30
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51242e70c6b8aba0800000000000000
+      internalID: -6077406759270211237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_218
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f062eb753bd9fff00800000000000000
+      internalID: 1152813423226922511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_219
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884b6653d75b43720800000000000000
+      internalID: 2825082415639606408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_220
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084986d9bd9c84460800000000000000
+      internalID: 7226247547191858304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_221
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e26f68ccf97da0800000000000000
+      internalID: -5946443895173618356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_222
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31109a1de7f129c0800000000000000
+      internalID: -3953606400129625796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_223
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731f2c323cf40b140800000000000000
+      internalID: 4733370907903586615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_224
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3801177418f0e100800000000000000
+      internalID: 135380755601754173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_225
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 32
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed5badf7af54420800000000000000
+      internalID: 2613770585795583637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_226
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f72158bba9d69ed0800000000000000
+      internalID: -2407497619227990029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_227
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea8a00c0a24a030800000000000000
+      internalID: 3504972641040117318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_228
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5bee322c15e9690800000000000000
+      internalID: -7593542027431725585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_229
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee75c410ddeff00800000000000000
+      internalID: 1152601552298962443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_230
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 32
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa093ce48e792a60800000000000000
+      internalID: 7649784551429442211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_231
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baec53365af8a2c70800000000000000
+      internalID: 8947121550221758123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_232
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 32
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d202c910ce1490800000000000000
+      internalID: -7773564689933216000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_233
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf886649f0f40fd80800000000000000
+      internalID: -8218982391618303749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_234
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8607847644924900800000000000000
+      internalID: 667258725127882380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_235
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95e6dcd0defbd1b0800000000000000
+      internalID: -5630626736084949606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_236
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a7c1c9382410580800000000000000
+      internalID: -8862729458661164526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_237
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f865e29508ac22b10800000000000000
+      internalID: 1955347840833050255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_238
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f33cab33b1a1b0800000000000000
+      internalID: -5647035388872363923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_239
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c740c573afaa7fb40800000000000000
+      internalID: 5474031863739450492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_240
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7431e40929e33f50800000000000000
+      internalID: 6860083019800196221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_241
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6467223fc40ab40b0800000000000000
+      internalID: -5743320647423855034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_242
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80b07e1807e6c940800000000000000
+      internalID: 5316190432213905547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_243
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd54923d6d47e5d40800000000000000
+      internalID: 5575021854745773533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_244
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 16
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b17575a6efb3960800000000000000
+      internalID: 7582934130293676930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_245
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68b8d71001f9b4c0800000000000000
+      internalID: -4271117788881831829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_246
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e01612c3851161a0800000000000000
+      internalID: -6818144705221095197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_247
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada44cf546b197ea0800000000000000
+      internalID: -5874634121010722086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_248
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d64f62ce419b70800000000000000
+      internalID: 8903984535285717039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_249
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 16
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2596f89e1020848c0800000000000000
+      internalID: -4014956860564084398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_250
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 16
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f11955bd75240c0800000000000000
+      internalID: -4593012070419456230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_251
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d73b3428927734d0800000000000000
+      internalID: -3154927016181286954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_252
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 18
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6405b55f0c557f0800000000000000
+      internalID: -624380813289437472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_253
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea10fe8835f8e90800000000000000
+      internalID: -7021301446456791399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_254
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95eb04696ade7a80800000000000000
+      internalID: -8467090103225031266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_255
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c2195a7758723e0800000000000000
+      internalID: -2078545954082837415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_256
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569bb6f0ba68c2a40800000000000000
+      internalID: 5344794927038183781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_257
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 19
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289df574108c38920800000000000000
+      internalID: 2991454485322127746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_258
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 19
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7dff2041b7d8970800000000000000
+      internalID: 8758792176185366449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_259
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53866ce83334cf1d0800000000000000
+      internalID: -3315701336933767115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_260
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e5dafd070a95c0800000000000000
+      internalID: -4208043145200016287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_261
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 19
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd0fb0accf6af710800000000000000
+      internalID: 1727816331710893564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_262
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ad32354dadd4710800000000000000
+      internalID: 1679238841541843540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_263
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd57c65676fd1c960800000000000000
+      internalID: 7620617679663822301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_264
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d50185f7fe3f2550800000000000000
+      internalID: 6138194051825993176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_265
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122a2fb0a83f8d90800000000000000
+      internalID: -7093388625032109552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_266
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2cfc33232d61d20800000000000000
+      internalID: 3249015294253843181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_267
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 5
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a72a31fe58a5e0800000000000000
+      internalID: -1898162852780858810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_268
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe9054476f343a50800000000000000
+      internalID: 6499889874962783989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_269
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a869fa0291f6cc880800000000000000
+      internalID: -8589368235589134710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_270
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18fb97ae3f142520800000000000000
+      internalID: 2676298432525367327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_271
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0a196c14966e4c0800000000000000
+      internalID: -4258600666407001922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_272
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0497b1dab4c40b70800000000000000
+      internalID: 8864426273233409038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_273
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2e437eddc857f0800000000000000
+      internalID: -623522193089877462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_274
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 5
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a14f0c3a24b69d0800000000000000
+      internalID: -2780055073886823873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_275
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 5
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49abb178e15448dc0800000000000000
+      internalID: -3637706601590441324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_276
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe793975277df8820800000000000000
+      internalID: 2922791569282275311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_277
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 5
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078083ef8b5e215d0800000000000000
+      internalID: -3093157411348281232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_278
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb4e6f2a17b8f8f0800000000000000
+      internalID: -506453634986390547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_279
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fba12478d011280800000000000000
+      internalID: -9074456899594043631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_280
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a41f0f0e78772c0800000000000000
+      internalID: -4433925907938194864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_281
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 5
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53432acf493360e0800000000000000
+      internalID: -2277913971662830753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - HP Bars_282
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 5
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ae3be1df7b15470800000000000000
+      internalID: 8381682679282920071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

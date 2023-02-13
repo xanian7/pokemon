@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: e0c70eede89b1164fbee7566c8c80bff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8814371466643264574
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_0
+  - first:
+      213: 1835492325801167256
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_1
+  - first:
+      213: 9146496036873466172
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_2
+  - first:
+      213: -5474922166087293329
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_3
+  - first:
+      213: 8692875576778050724
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_4
+  - first:
+      213: 3150456369857807688
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_5
+  - first:
+      213: -1465908740042796581
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_6
+  - first:
+      213: -2009810899451622711
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_7
+  - first:
+      213: 6376081563677733738
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_8
+  - first:
+      213: -138137484756103192
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_9
+  - first:
+      213: -273178204534205208
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_10
+  - first:
+      213: -8005386059867387786
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_11
+  - first:
+      213: -7299287908711621857
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_12
+  - first:
+      213: 1049918446855024723
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_13
+  - first:
+      213: -1686299953858250449
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_14
+  - first:
+      213: 875916461363120670
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_15
+  - first:
+      213: 6519034799445907072
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_16
+  - first:
+      213: -2191915355207253309
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_17
+  - first:
+      213: 2155715113587530402
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_18
+  - first:
+      213: -4897264038704189245
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_19
+  - first:
+      213: 7219332498913019857
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_20
+  - first:
+      213: -8184753515602004709
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_21
+  - first:
+      213: 1781116970175517654
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_22
+  - first:
+      213: -2994718087270745050
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_23
+  - first:
+      213: -3097847549851747397
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_24
+  - first:
+      213: -4279901299078176535
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_25
+  - first:
+      213: -1716039164126111634
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_26
+  - first:
+      213: 8606519308434305750
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_27
+  - first:
+      213: -2663649342254500701
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_28
+  - first:
+      213: -4474616483084962632
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_29
+  - first:
+      213: 8333922503854784917
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_30
+  - first:
+      213: 5285006372904758436
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_31
+  - first:
+      213: 4612957237653621323
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_32
+  - first:
+      213: 6630789030203490314
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_33
+  - first:
+      213: -7044214761143220634
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_34
+  - first:
+      213: -6107295765796748063
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_35
+  - first:
+      213: 4449823727705516769
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_36
+  - first:
+      213: 1152637172797688340
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_37
+  - first:
+      213: 875967765325340227
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_38
+  - first:
+      213: 3496994171263179428
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_39
+  - first:
+      213: -3124208349705825208
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_40
+  - first:
+      213: -3143617493645077647
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_41
+  - first:
+      213: 2151976737193893476
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_42
+  - first:
+      213: 5507242884598244016
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_43
+  - first:
+      213: -315102823607885991
+    second: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 608
+        width: 204
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e345c9bf520f25a70800000000000000
+      internalID: 8814371466643264574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 600
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8998553ab8af87910800000000000000
+      internalID: 1835492325801167256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 600
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c317c517fa1eeee70800000000000000
+      internalID: 9146496036873466172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 600
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66647d1c4b2504b0800000000000000
+      internalID: -5474922166087293329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 600
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac468eb74c43a870800000000000000
+      internalID: 8692875576778050724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 568
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845cdb5606ba8bb20800000000000000
+      internalID: 3150456369857807688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 528
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1db9484cb08abe0800000000000000
+      internalID: -1465908740042796581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 528
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4a78a2a7bb14e0800000000000000
+      internalID: -2009810899451622711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 528
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63bde576646c7850800000000000000
+      internalID: 6376081563677733738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 528
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef42f280bc351ef0800000000000000
+      internalID: -138137484756103192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 528
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e41c5eced9753cf0800000000000000
+      internalID: -273178204534205208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 488
+        width: 212
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6788dbbfac727e090800000000000000
+      internalID: -8005386059867387786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 456
+        width: 124
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b90fff158b3ba90800000000000000
+      internalID: -7299287908711621857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 448
+        width: 212
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507ce3c34f029e00800000000000000
+      internalID: 1049918446855024723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 456
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f297589502f0998e0800000000000000
+      internalID: -1686299953858250449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 456
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a477c7161e72c00800000000000000
+      internalID: 875916461363120670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_16
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 455
+        width: 126
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086126b5c93487a50800000000000000
+      internalID: 6519034799445907072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 408
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2c5230990c491e0800000000000000
+      internalID: -2191915355207253309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 383
+        width: 126
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa535e6973aaed10800000000000000
+      internalID: 2155715113587530402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 383
+        width: 126
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0fdb9bd4c690cb0800000000000000
+      internalID: -4897264038704189245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 383
+        width: 126
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c42978a8303460800000000000000
+      internalID: 7219332498913019857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 383
+        width: 126
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b960da0ae96e80800000000000000
+      internalID: -8184753515602004709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 368
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d35bb6927cc7b810800000000000000
+      internalID: 1781116970175517654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_23
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 328
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c3acd24cf9076d0800000000000000
+      internalID: -2994718087270745050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 328
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbb5c6011c3205d0800000000000000
+      internalID: -3097847549851747397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_25
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 312
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e066b2c17cba94c0800000000000000
+      internalID: -4279901299078176535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_26
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 312
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68da91e8776f28e0800000000000000
+      internalID: -1716039164126111634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 288
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d274c336bf707770800000000000000
+      internalID: 8606519308434305750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4b7bc2901d80bd0800000000000000
+      internalID: -2663649342254500701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 248
+        width: 220
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4fc932408f6e1c0800000000000000
+      internalID: -4474616483084962632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 248
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59106ebbc5a08a370800000000000000
+      internalID: 8333922503854784917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 240
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace9a48b4d185940800000000000000
+      internalID: 5285006372904758436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_32
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 240
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a496aca24840040800000000000000
+      internalID: 4612957237653621323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_33
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 208
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0006d5dd7b450c50800000000000000
+      internalID: 6630789030203490314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666ce702ffbed3e90800000000000000
+      internalID: -7044214761143220634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 168
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4007ddbd68e3ba0800000000000000
+      internalID: -6107295765796748063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 168
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaedfaaa13f0cd30800000000000000
+      internalID: 4449823727705516769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_37
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 168
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4487d66dfeff00800000000000000
+      internalID: 1152637172797688340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_38
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 168
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed8ee9a00182c00800000000000000
+      internalID: 875967765325340227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_39
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 128
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad0cfbba1d78030800000000000000
+      internalID: 3496994171263179428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_40
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 128
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84499770f0594a4d0800000000000000
+      internalID: -3124208349705825208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 88
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d49d8b80af54d0800000000000000
+      internalID: -3143617493645077647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 28
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e9859d07b5ddd10800000000000000
+      internalID: 2151976737193893476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2a6449938ad6c40800000000000000
+      internalID: 5507242884598244016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Battle Bases_44
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 220
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f1123c6a780abf0800000000000000
+      internalID: -315102823607885991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4969 @@
+fileFormatVersion: 2
+guid: 1efd920d22091b04ba16121308ee7964
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1725461905288701103
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_0
+  - first:
+      213: -6409107691628717702
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_1
+  - first:
+      213: 7856052971201894049
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_2
+  - first:
+      213: 5557339284305532014
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_3
+  - first:
+      213: -470284942531547146
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_4
+  - first:
+      213: -790384801012531621
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_5
+  - first:
+      213: 3130312876357685379
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_6
+  - first:
+      213: 7387554941951164510
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_7
+  - first:
+      213: -8733768102017782342
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_8
+  - first:
+      213: -6351640163726698223
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_9
+  - first:
+      213: -3662275434303183577
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_10
+  - first:
+      213: -8171504165881083491
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_11
+  - first:
+      213: -4632435317987900056
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_12
+  - first:
+      213: 73607659352085315
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_13
+  - first:
+      213: -4666562637443040121
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_14
+  - first:
+      213: 7669318953320688831
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_15
+  - first:
+      213: -5020526100074949139
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_16
+  - first:
+      213: -7472386634872922763
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_17
+  - first:
+      213: -7527320916079919866
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_18
+  - first:
+      213: -2397147757207451438
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_19
+  - first:
+      213: -6707227422638814853
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_20
+  - first:
+      213: -5403234037264999268
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_21
+  - first:
+      213: 7387758897693170732
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_22
+  - first:
+      213: 2614446522163019467
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_23
+  - first:
+      213: -2464668817151783357
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_24
+  - first:
+      213: -1011768693973194627
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_25
+  - first:
+      213: 6184662461633184153
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_26
+  - first:
+      213: -1570330817363675924
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_27
+  - first:
+      213: 6355569228746846294
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_28
+  - first:
+      213: 8053500711153858071
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_29
+  - first:
+      213: 6223376488434671770
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_30
+  - first:
+      213: -6688789936868325361
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_31
+  - first:
+      213: -7888390306970162681
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_32
+  - first:
+      213: 7076084889431315650
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_33
+  - first:
+      213: 6604076963586912699
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_34
+  - first:
+      213: -459711350043752424
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_35
+  - first:
+      213: 3176142288362301457
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_36
+  - first:
+      213: -8184062324978393045
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_37
+  - first:
+      213: -1854610580974892613
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_38
+  - first:
+      213: 7441889165191643149
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_39
+  - first:
+      213: 5695039446481151797
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_40
+  - first:
+      213: 5421181431501807722
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_41
+  - first:
+      213: 2835943119787252703
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_42
+  - first:
+      213: -3784872850709882877
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_43
+  - first:
+      213: -1160628038604517445
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_44
+  - first:
+      213: 8595507321648791719
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_45
+  - first:
+      213: 8747918303504057520
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_46
+  - first:
+      213: -518919897813010033
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_47
+  - first:
+      213: 550536706326706711
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_48
+  - first:
+      213: -8206714628912034038
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_49
+  - first:
+      213: -1544646095942491424
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_50
+  - first:
+      213: -3397368748938897236
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_51
+  - first:
+      213: -3811541454062736417
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_52
+  - first:
+      213: 2538798184935171406
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_53
+  - first:
+      213: 7533163664139499070
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_54
+  - first:
+      213: -6305093378580061493
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_55
+  - first:
+      213: -8783748507175981055
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_56
+  - first:
+      213: 5886149901528048736
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_57
+  - first:
+      213: -8950467388628432004
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_58
+  - first:
+      213: -7734691518122178110
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_59
+  - first:
+      213: -7224293871062395953
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_60
+  - first:
+      213: 6022415431999405026
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_61
+  - first:
+      213: 5780697303544247132
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_62
+  - first:
+      213: -31517362367465188
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_63
+  - first:
+      213: -3862579607239819415
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_64
+  - first:
+      213: 5877128366236515475
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_65
+  - first:
+      213: -4502813659094998085
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_66
+  - first:
+      213: -564636874885095846
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_67
+  - first:
+      213: -8095718523238333809
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_68
+  - first:
+      213: -6223996703381683609
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_69
+  - first:
+      213: 6780929494555248788
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_70
+  - first:
+      213: 728849969630454287
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_71
+  - first:
+      213: -1688390611952385219
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_72
+  - first:
+      213: 849190418965151481
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_73
+  - first:
+      213: -2803349134689206556
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_74
+  - first:
+      213: 5633745859339478420
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_75
+  - first:
+      213: 5220179192807345219
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_76
+  - first:
+      213: 6531297024547959572
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_77
+  - first:
+      213: -3517467904106074993
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_78
+  - first:
+      213: -3650549705667444884
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_79
+  - first:
+      213: 1930215590507598395
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_80
+  - first:
+      213: 6696028662314749010
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_81
+  - first:
+      213: 3714514512497745384
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_82
+  - first:
+      213: 8805137343662895947
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_83
+  - first:
+      213: -7698954720940852927
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_84
+  - first:
+      213: 105060319270415043
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_85
+  - first:
+      213: -8318061119367952447
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_86
+  - first:
+      213: -9119882119458670496
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_87
+  - first:
+      213: 3381896075592293834
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_88
+  - first:
+      213: -2344778034503397227
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_89
+  - first:
+      213: -6931221860611705006
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_90
+  - first:
+      213: -1430418260200995019
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_91
+  - first:
+      213: -2531417625307091025
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_92
+  - first:
+      213: 3594041802370668455
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_93
+  - first:
+      213: 1127995233399627858
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_94
+  - first:
+      213: 5072574279868329247
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_95
+  - first:
+      213: -8817177731110031565
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_96
+  - first:
+      213: 6493061781777766471
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_97
+  - first:
+      213: 1101113069846033404
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_98
+  - first:
+      213: 3398066889506986362
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_99
+  - first:
+      213: 5550247256511762723
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_100
+  - first:
+      213: 1983073468756486232
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_101
+  - first:
+      213: -7937465769821596519
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_102
+  - first:
+      213: 6059653810979093811
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_103
+  - first:
+      213: 5042697698184073136
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_104
+  - first:
+      213: 8513520070835699365
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_105
+  - first:
+      213: 6134773134751910468
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_106
+  - first:
+      213: -7510330396115355902
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_107
+  - first:
+      213: 115222732858203462
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_108
+  - first:
+      213: -163642048401289513
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_109
+  - first:
+      213: -4525174933017628424
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_110
+  - first:
+      213: -9180555752586937194
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_111
+  - first:
+      213: 8157626424665628172
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_112
+  - first:
+      213: -3934699393593656607
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_113
+  - first:
+      213: -1922703847693485045
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_114
+  - first:
+      213: -8310333895571474900
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_115
+  - first:
+      213: -2864680589132370785
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_116
+  - first:
+      213: -8981062412871042978
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_117
+  - first:
+      213: -3327880882202620651
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_118
+  - first:
+      213: 1221029346022148367
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_119
+  - first:
+      213: 8825802980375068019
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_120
+  - first:
+      213: -3661445412893814702
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_121
+  - first:
+      213: -8034531172136819559
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_122
+  - first:
+      213: 1978567586104749725
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_123
+  - first:
+      213: -8159732795913547969
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_124
+  - first:
+      213: -6904795798698750164
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_125
+  - first:
+      213: 8758333352696988649
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_126
+  - first:
+      213: 2379980194164612650
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_127
+  - first:
+      213: 3914902511294062106
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_128
+  - first:
+      213: 179596577826666730
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_129
+  - first:
+      213: -3492057401146411965
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_130
+  - first:
+      213: 7309507728368095595
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_131
+  - first:
+      213: 3685252176294168863
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_132
+  - first:
+      213: 3976976815159271871
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_133
+  - first:
+      213: 3349016315973062608
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_134
+  - first:
+      213: -6501234949932590974
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_135
+  - first:
+      213: -2144437374312203675
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_136
+  - first:
+      213: 8588020228535597837
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_137
+  - first:
+      213: 6676100998318960256
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_138
+  - first:
+      213: 4514177867246286515
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_139
+  - first:
+      213: -1576367740179578917
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_140
+  - first:
+      213: 1259226488866160717
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_141
+  - first:
+      213: 7519982215508755421
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_142
+  - first:
+      213: 8382493466359007916
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_143
+  - first:
+      213: -1921573218823676807
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_144
+  - first:
+      213: -5216313453330124541
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_145
+  - first:
+      213: -4973195271412363067
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_146
+  - first:
+      213: 4069662560719646840
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_147
+  - first:
+      213: 8989302205191132248
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_148
+  - first:
+      213: -8546153839914406324
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_149
+  - first:
+      213: -5569542299569963145
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_150
+  - first:
+      213: -185178609284864180
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_151
+  - first:
+      213: 8471791816132942997
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_152
+  - first:
+      213: 8784525896383229902
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_153
+  - first:
+      213: -3289787144441294167
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_154
+  - first:
+      213: 1417215592400626836
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_155
+  - first:
+      213: 1943224251681997626
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_156
+  - first:
+      213: 4987755161060104058
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_157
+  - first:
+      213: 4864165595845470362
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_158
+  - first:
+      213: -4216939886453844089
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_159
+  - first:
+      213: -4976364018751630514
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_160
+  - first:
+      213: -4997096938186732474
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_161
+  - first:
+      213: 2795308286590414416
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_162
+  - first:
+      213: -7414468467877690230
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_163
+  - first:
+      213: -2911357776570912012
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_164
+  - first:
+      213: -413292912540182937
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_165
+  - first:
+      213: 7288131529518082112
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_166
+  - first:
+      213: 1267175319318708972
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_167
+  - first:
+      213: 4942102705685722161
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_168
+  - first:
+      213: 3543071276236642440
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_169
+  - first:
+      213: -110184758513196350
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_170
+  - first:
+      213: -2302097590419603054
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_171
+  - first:
+      213: -9043494475403480802
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_172
+  - first:
+      213: 483597055123322325
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_173
+  - first:
+      213: 9020911517342938737
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_174
+  - first:
+      213: 5116477829987645441
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_175
+  - first:
+      213: 3127807533872167253
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_176
+  - first:
+      213: -4808628362484687636
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_177
+  - first:
+      213: -1191410275559898490
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_178
+  - first:
+      213: 2592433222251140885
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_179
+  - first:
+      213: 5263224680934179279
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_180
+  - first:
+      213: -1343547470342254962
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_181
+  - first:
+      213: 6444146407138617115
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_182
+  - first:
+      213: -7808440633243779510
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_183
+  - first:
+      213: 6652956012188434334
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_184
+  - first:
+      213: -4102475373016070905
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_185
+  - first:
+      213: 5758428654547676947
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_186
+  - first:
+      213: 2441339047226236725
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_187
+  - first:
+      213: 8355169375342573836
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_188
+  - first:
+      213: -1873831285404776780
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_189
+  - first:
+      213: -4610769355174644711
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_190
+  - first:
+      213: 1791281575791086305
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_191
+  - first:
+      213: 3591841722640421105
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_192
+  - first:
+      213: 231257389973507964
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_193
+  - first:
+      213: 4195544158862646927
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_194
+  - first:
+      213: 150937190076789906
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_195
+  - first:
+      213: -2723111394594470257
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_196
+  - first:
+      213: 6691524901090927976
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_197
+  - first:
+      213: 8789576432729712728
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_198
+  - first:
+      213: -381652793689295634
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_199
+  - first:
+      213: 7966044276988136736
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_200
+  - first:
+      213: -5962477296396362688
+    second: DS DSi - Pokemon HeartGold SoulSilver - Ethan_201
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 444
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b5ccdf98ded08e0800000000000000
+      internalID: -1725461905288701103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 446
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a791f39e2864e07a0800000000000000
+      internalID: -6409107691628717702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 444
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6142ddd8e460d60800000000000000
+      internalID: 7856052971201894049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 444
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64da5192a2af1d40800000000000000
+      internalID: 5557339284305532014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 447
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff213126563979f0800000000000000
+      internalID: -470284942531547146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 444
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eb7cb063df705f0800000000000000
+      internalID: -790384801012531621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 446
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3809127d9fa117b20800000000000000
+      internalID: 3130312876357685379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 446
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e504ea9241ed58660800000000000000
+      internalID: 7387554941951164510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 446
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abda7984f2c6bc680800000000000000
+      internalID: -8733768102017782342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 446
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11957fb6ce07ad7a0800000000000000
+      internalID: -6351640163726698223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 443
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72528b465ebfc2dc0800000000000000
+      internalID: -3662275434303183577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 443
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d998800714cf89e80800000000000000
+      internalID: -8171504165881083491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 443
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8658b5a3f9846bfb0800000000000000
+      internalID: -4632435317987900056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 443
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343dd64b6c1850100800000000000000
+      internalID: 73607659352085315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf819710a0d3fb0800000000000000
+      internalID: -4666562637443040121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 417
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca9d944f4ee6a60800000000000000
+      internalID: 7669318953320688831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 417
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de59473ac12835ab0800000000000000
+      internalID: -5020526100074949139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 418
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd50c22ffbc4890800000000000000
+      internalID: -7472386634872922763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 419
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d30be1285998790800000000000000
+      internalID: -7527320916079919866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 418
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d88681c0de9bbed0800000000000000
+      internalID: -2397147757207451438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 413
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79cadd02342be2a0800000000000000
+      internalID: -6707227422638814853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 414
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c158a454bd305b0800000000000000
+      internalID: -5403234037264999268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 413
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9b3f4397968660800000000000000
+      internalID: 7387758897693170732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 414
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce38cd8241684420800000000000000
+      internalID: 2614446522163019467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 414
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e8fa8e4ccbbcdd0800000000000000
+      internalID: -2464668817151783357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 414
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78edd0cbb975f1f0800000000000000
+      internalID: -1011768693973194627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 414
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c659bdb554d550800000000000000
+      internalID: 6184662461633184153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 388
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4703b0170153ae0800000000000000
+      internalID: -1570330817363675924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 390
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650fbd05a84833850800000000000000
+      internalID: 6355569228746846294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 388
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7167eae3a38c3cf60800000000000000
+      internalID: 8053500711153858071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_30
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 391
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90aaa081ffdd5650800000000000000
+      internalID: 6223376488434671770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 394
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0881cbbdf4ac23a0800000000000000
+      internalID: -6688789936868325361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 392
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa86f6fcec68290800000000000000
+      internalID: -7888390306970162681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 387
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4101b57bd433260800000000000000
+      internalID: 7076084889431315650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 388
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb130fb220566ab50800000000000000
+      internalID: 6604076963586912699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 387
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8184d6976f6ce99f0800000000000000
+      internalID: -459711350043752424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 382
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186ee5559ce31c20800000000000000
+      internalID: 3176142288362301457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 381
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20610c2dae5c6e80800000000000000
+      internalID: -8184062324978393045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 378
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb98f44b0891346e0800000000000000
+      internalID: -1854610580974892613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 376
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00831554c6e64760800000000000000
+      internalID: 7441889165191643149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a855f338d80f40800000000000000
+      internalID: 5695039446481151797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 362
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60eb9f0ac7eb3b40800000000000000
+      internalID: 5421181431501807722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 361
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbd122fd3b4b5720800000000000000
+      internalID: 2835943119787252703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_43
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 365
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308da65023e697bc0800000000000000
+      internalID: -3784872850709882877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 366
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf8e9ab2fe94efe0800000000000000
+      internalID: -1160628038604517445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_45
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 365
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0452b3e50694770800000000000000
+      internalID: 8595507321648791719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 356
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b44f7c3959d66970800000000000000
+      internalID: 8747918303504057520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 359
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8939ff2a1d6cc8f0800000000000000
+      internalID: -518919897813010033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_48
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 346
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aba60b736e3a700800000000000000
+      internalID: 550536706326706711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 346
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f42baa684eb1e80800000000000000
+      internalID: -8206714628912034038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 346
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e267a34f80509ae0800000000000000
+      internalID: -1544646095942491424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 346
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8db747f1f1ad0d0800000000000000
+      internalID: -3397368748938897236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 327
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2aefed3faa1bc0800000000000000
+      internalID: -3811541454062736417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 314
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a7718f7f9b3320800000000000000
+      internalID: 2538798184935171406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 314
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363aeba07c2b8860800000000000000
+      internalID: 7533163664139499070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 299
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2611e5afecf78a0800000000000000
+      internalID: -6305093378580061493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 299
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1007861654bd91680800000000000000
+      internalID: -8783748507175981055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_57
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 299
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a747362ecfa150800000000000000
+      internalID: 5886149901528048736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 299
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b8517e45d89c380800000000000000
+      internalID: -8950467388628432004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_59
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 288
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9c91f5b0bd8a490800000000000000
+      internalID: -7734691518122178110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 288
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc35b4e00072ebb90800000000000000
+      internalID: -7224293871062395953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 287
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb7226deae39350800000000000000
+      internalID: 6022415431999405026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_62
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 288
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5330d3f199293050800000000000000
+      internalID: 5780697303544247132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1974db3027009ff0800000000000000
+      internalID: -31517362367465188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_64
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 271
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7dc1ef4c556ac0800000000000000
+      internalID: -3862579607239819415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 245
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c36e85c11cf8150800000000000000
+      internalID: 5877128366236515475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 245
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3addf75dac281c0800000000000000
+      internalID: -4502813659094998085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_67
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 245
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e136df0c10a28f0800000000000000
+      internalID: -564636874885095846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_68
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 245
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8244d465ea36af80800000000000000
+      internalID: -8095718523238333809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 245
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7628bb379fbef99a0800000000000000
+      internalID: -6223996703381683609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_70
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 263
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984fe9c273ba1e50800000000000000
+      internalID: 6780929494555248788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 261
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02a06e8f256d1a00800000000000000
+      internalID: 728849969630454287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_72
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 261
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3349741fa1a198e0800000000000000
+      internalID: -1688390611952385219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_73
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 263
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3515df2ee8cb00800000000000000
+      internalID: 849190418965151481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_74
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 263
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee737590d08819d0800000000000000
+      internalID: -2803349134689206556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_75
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 263
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495e1cc92061f2e40800000000000000
+      internalID: 5633745859339478420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_76
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 261
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cca23715dc17840800000000000000
+      internalID: 5220179192807345219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 263
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4133fbe1a04d3aa50800000000000000
+      internalID: 6531297024547959572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_78
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 263
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c6bead3917f2fc0800000000000000
+      internalID: -3517467904106074993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_79
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 249
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ff8c65264a65dc0800000000000000
+      internalID: -3650549705667444884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_80
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3250245ad089ca10800000000000000
+      internalID: 1930215590507598395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_81
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 251
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cca1f57921dec50800000000000000
+      internalID: 6696028662314749010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_82
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 251
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed167ec44b9c8330800000000000000
+      internalID: 3714514512497745384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_83
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43bd8f23c1223a70800000000000000
+      internalID: 8805137343662895947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 251
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149f08cd871d72590800000000000000
+      internalID: -7698954720940852927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 251
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2a12cdcf357100800000000000000
+      internalID: 105060319270415043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_86
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 251
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c510ab7f409c80800000000000000
+      internalID: -8318061119367952447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_87
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 251
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ba34188baf6180800000000000000
+      internalID: -9119882119458670496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_88
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 251
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd57fc0098eeee20800000000000000
+      internalID: 3381896075592293834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_89
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59059400dcca57fd0800000000000000
+      internalID: -2344778034503397227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_90
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 251
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25731d2e07a5fcf90800000000000000
+      internalID: -6931221860611705006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_91
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 251
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537cc78cb22262ce0800000000000000
+      internalID: -1430418260200995019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 227
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf6861f4199edcd0800000000000000
+      internalID: -2531417625307091025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 229
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7553a2af990e130800000000000000
+      internalID: 3594041802370668455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_94
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 227
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2506e1b30b177af00800000000000000
+      internalID: 1127995233399627858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_95
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 217
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da5509e67656640800000000000000
+      internalID: 5072574279868329247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_96
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 239
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fa3b7a19713a580800000000000000
+      internalID: -8817177731110031565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_97
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 239
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748578fe94dfb1a50800000000000000
+      internalID: 6493061781777766471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf376b9c080f74f00800000000000000
+      internalID: 1101113069846033404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_99
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 239
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79941015db582f20800000000000000
+      internalID: 3398066889506986362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_100
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32158fb2970760d40800000000000000
+      internalID: 5550247256511762723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_101
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 239
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8586bb420da458b10800000000000000
+      internalID: 1983073468756486232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_102
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 237
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99416f4dfe478d190800000000000000
+      internalID: -7937465769821596519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_103
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 239
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d30412907381450800000000000000
+      internalID: 6059653810979093811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_104
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf01f1d6d24bf540800000000000000
+      internalID: 5042697698184073136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_105
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 239
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aef15ad569162670800000000000000
+      internalID: 8513520070835699365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_106
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 239
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a4f72a9a7132550800000000000000
+      internalID: 6134773134751910468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_107
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b9b1db42f5c790800000000000000
+      internalID: -7510330396115355902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_108
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d101e077a599100800000000000000
+      internalID: 115222732858203462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_109
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de49ba8c60aabdf0800000000000000
+      internalID: -163642048401289513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_110
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07bf2bf595331c0800000000000000
+      internalID: -4525174933017628424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_111
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 239
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf2660f2d189080800000000000000
+      internalID: -9180555752586937194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_112
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ed8842306b53170800000000000000
+      internalID: 8157626424665628172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_113
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab7ea9fb32569c0800000000000000
+      internalID: -3934699393593656607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_114
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 239
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf3f5990f2155e0800000000000000
+      internalID: -1922703847693485045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_115
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 237
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26f29d1a53cbac80800000000000000
+      internalID: -8310333895571474900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_116
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ceec19e2c9e38d0800000000000000
+      internalID: -2864680589132370785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_117
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 213
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e587537b15bdc5380800000000000000
+      internalID: -8981062412871042978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_118
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 213
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dcf7138fdf0d1d0800000000000000
+      internalID: -3327880882202620651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_119
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 213
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f094afd88b7f1f010800000000000000
+      internalID: 1221029346022148367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 213
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df6deac0d8b7a70800000000000000
+      internalID: 8825802980375068019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_121
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 213
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2501bffcbceef2dc0800000000000000
+      internalID: -3661445412893814702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_122
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 213
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9946bfbb77c9f7090800000000000000
+      internalID: -8034531172136819559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_123
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 213
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e20e59cb8457b10800000000000000
+      internalID: 1978567586104749725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_124
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 213
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc775114ec2ce80800000000000000
+      internalID: -8159732795913547969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_125
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 213
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f83f3edcc3d20a0800000000000000
+      internalID: -6904795798698750164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_126
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 213
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c5f7d7c9db8970800000000000000
+      internalID: 8758333352696988649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_127
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 213
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e95ad7063670120800000000000000
+      internalID: 2379980194164612650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_128
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 213
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e97fb8717845630800000000000000
+      internalID: 3914902511294062106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_129
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 213
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8fb30d22e0e7200800000000000000
+      internalID: 179596577826666730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_130
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 213
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f46d9b48b98fc0800000000000000
+      internalID: -3492057401146411965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_131
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 201
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b615a503d86907560800000000000000
+      internalID: 7309507728368095595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_132
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 201
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19cfbb3455a42330800000000000000
+      internalID: 3685252176294168863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_133
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 200
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1688ba75f013730800000000000000
+      internalID: 3976976815159271871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_134
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 201
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfcf8478981a7e20800000000000000
+      internalID: 3349016315973062608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_135
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288d9ef0249f6c5a0800000000000000
+      internalID: -6501234949932590974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_136
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 188
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56abc0dd19d6d32e0800000000000000
+      internalID: -2144437374312203675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_137
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 188
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bbbb585e6ce2770800000000000000
+      internalID: 8588020228535597837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_138
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 188
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eae698c7646ac50800000000000000
+      internalID: 6676100998318960256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 179
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b635266ad495ae30800000000000000
+      internalID: 4514177867246286515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_140
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 179
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdff53b64ed9f1ae0800000000000000
+      internalID: -1576367740179578917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_141
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 179
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4041a8e1dba97110800000000000000
+      internalID: 1259226488866160717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_142
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 178
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd387a08bf75c5860800000000000000
+      internalID: 7519982215508755421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_143
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa8c523569945470800000000000000
+      internalID: 8382493466359007916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_144
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 173
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c5c12a6533555e0800000000000000
+      internalID: -1921573218823676807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_145
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 171
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ba292d8eeb97b0800000000000000
+      internalID: -5216313453330124541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_146
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c050d0ff39abfab0800000000000000
+      internalID: -4973195271412363067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_147
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 144
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b66779885a7830800000000000000
+      internalID: 4069662560719646840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_148
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549d0f6aba60cc70800000000000000
+      internalID: 8989302205191132248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_149
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 142
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eaf00bc56f56980800000000000000
+      internalID: -8546153839914406324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_150
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 143
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fbe9889c205b2b0800000000000000
+      internalID: -5569542299569963145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_151
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c472395390d1e6df0800000000000000
+      internalID: -185178609284864180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_152
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c5aa375c9d19570800000000000000
+      internalID: 8471791816132942997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_153
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 132
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6426a2c7e8e970800000000000000
+      internalID: 8784525896383229902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_154
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 133
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a21eeca5045852d0800000000000000
+      internalID: -3289787144441294167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_155
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 133
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4942f239216faa310800000000000000
+      internalID: 1417215592400626836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_156
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a330e684928b7fa10800000000000000
+      internalID: 1943224251681997626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_157
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77db9984e0183540800000000000000
+      internalID: 4987755161060104058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_158
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 98
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ab0586dcf08340800000000000000
+      internalID: 4864165595845470362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_159
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7871ebcf38b6a75c0800000000000000
+      internalID: -4216939886453844089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_160
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 102
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4316457a4760fab0800000000000000
+      internalID: -4976364018751630514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_161
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c003b7fceb6aab0800000000000000
+      internalID: -4997096938186732474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_162
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 101
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e6de3931eeac620800000000000000
+      internalID: 2795308286590414416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_163
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 101
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84c0d546348a1990800000000000000
+      internalID: -7414468467877690230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 100
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f27b69f687c897d0800000000000000
+      internalID: -2911357776570912012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_165
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 102
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7661bd72940b34af0800000000000000
+      internalID: -413292912540182937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_166
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 100
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048ef3d0305a42560800000000000000
+      internalID: 7288131529518082112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_167
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce242283d39e59110800000000000000
+      internalID: 1267175319318708972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_168
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f4e7f930e59440800000000000000
+      internalID: 4942102705685722161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_169
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 71
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88899f1cd848b2130800000000000000
+      internalID: 3543071276236642440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_170
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a821cb8b887ef0800000000000000
+      internalID: -110184758513196350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_171
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 74
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291c1c4407e4d00e0800000000000000
+      internalID: -2302097590419603054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_172
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 73
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e113e5960bd0f7280800000000000000
+      internalID: -9043494475403480802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_173
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 73
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5fc0d95f416b600800000000000000
+      internalID: 483597055123322325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_174
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 74
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176b47dea37b03d70800000000000000
+      internalID: 9020911517342938737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_175
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 74
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10833956a71610740800000000000000
+      internalID: 5116477829987645441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_176
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559bd365164386b20800000000000000
+      internalID: 3127807533872167253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_177
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 73
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5b354bf1544db0800000000000000
+      internalID: -4808628362484687636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_178
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 73
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682808faaa2477fe0800000000000000
+      internalID: -1191410275559898490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_179
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 72
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5175334c74c2af320800000000000000
+      internalID: 2592433222251140885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 73
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1862826faba0940800000000000000
+      internalID: 5263224680934179279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 41
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e0063b1b2ca5de0800000000000000
+      internalID: -1343547470342254962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_182
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 43
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176b16c3053e6950800000000000000
+      internalID: 6444146407138617115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_183
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 41
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e37cd6d98d2a390800000000000000
+      internalID: -7808440633243779510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_184
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f7ac48e3c045c50800000000000000
+      internalID: 6652956012188434334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_185
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 47
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705c69352641117c0800000000000000
+      internalID: -4102475373016070905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_186
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 44
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31faeb21a5c0aef40800000000000000
+      internalID: 5758428654547676947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_187
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 29
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fd53ebde061e120800000000000000
+      internalID: 2441339047226236725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_188
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 29
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09348f774683f370800000000000000
+      internalID: 8355169375342573836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_189
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 43
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64f68bf50def5e0800000000000000
+      internalID: -1873831285404776780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_190
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 46
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914fe8b43b14300c0800000000000000
+      internalID: -4610769355174644711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_191
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 44
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eacab14a19ebd810800000000000000
+      internalID: 1791281575791086305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_192
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0d86f2409c8d130800000000000000
+      internalID: 3591841722640421105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_193
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f0e05fe57953300800000000000000
+      internalID: 231257389973507964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_194
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 14
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e197cfe21993a30800000000000000
+      internalID: 4195544158862646927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_195
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 17
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2943ced139c381200800000000000000
+      internalID: 150937190076789906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_196
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 18
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86c0614d90953ad0800000000000000
+      internalID: -2723111394594470257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_197
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865a43fb1721ddc50800000000000000
+      internalID: 6691524901090927976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_198
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 17
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858eff64239daf970800000000000000
+      internalID: 8789576432729712728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_199
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 17
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee43d946ec814baf0800000000000000
+      internalID: -381652793689295634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_200
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 16
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d49e260131d8e60800000000000000
+      internalID: 7966044276988136736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon HeartGold SoulSilver - Ethan_201
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 17
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c96fe4d76014da0800000000000000
+      internalID: -5962477296396362688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

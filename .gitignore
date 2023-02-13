@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Library/ArtifactDB
+<<<<<<< HEAD
+=======
+Library/ArtifactDB-lock
+>>>>>>> e972a2cb30e94e81ddc4c946606b27518e5d6f01
+
