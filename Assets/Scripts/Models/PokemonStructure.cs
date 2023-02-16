@@ -5,7 +5,7 @@ using Assets.Scripts.Pokemon;
 public class PokemonStructure : ScriptableObject
 {
     [SerializeField] int id;
-
+    [SerializeField] int level;
     [SerializeField] string name;
 
     [TextArea]
@@ -25,6 +25,7 @@ public class PokemonStructure : ScriptableObject
     [SerializeField] int speed;
 
     public int ID { get { return id; } }
+    public int Level { get { return level; } }
     public string Name { get { return name; } }
     public string Description { get { return description; } }
     public Sprite Front { get { return front; } }
