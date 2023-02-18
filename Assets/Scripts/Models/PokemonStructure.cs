@@ -5,7 +5,6 @@ using Assets.Scripts.Pokemon;
 public class PokemonStructure : ScriptableObject
 {
     [SerializeField] int id;
-    [SerializeField] int level;
     [SerializeField] string name;
 
     [TextArea]
