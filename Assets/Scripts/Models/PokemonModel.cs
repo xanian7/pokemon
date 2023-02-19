@@ -1,27 +1,45 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UnityEngine;
+using Assets.Scripts.Pokemon;
+using System.Collections.Generic;
+using Assets.Scripts.Models;
+using System;
 
-namespace Assets.Scripts.Models
+[CreateAssetMenu(fileName = "Pokemon", menuName = "Pokemon/Create new Pokemon")]
+public class PokemonModel : ScriptableObject
 {
-    public class PokemonModel
-    {
-        public int ID { get; set; }
-        public string Name { get; set; }
-        public int Level { get; set; }
-        public string Description { get; set; }
-        public Sprite frontSprite { get; set; }
-        public Sprite backSprite { get; set; }
-        public string Type1 { get; set; }
-        public string Type2 { get; set; }
-        public int MaxHp { get; set; }
-        public int Attack { get; set; }
-        public int SpAttack { get; set; }
-        public int Defense { get; set; }
-        public int SpDefense { get; set; }
-        public int Speed { get; set; }
-    }
+    [SerializeField] int id;
+    [SerializeField] string name;
+
+    [TextArea]
+    [SerializeField] string description;
+
+    [SerializeField] Sprite front;
+    [SerializeField] Sprite back;
+
+    [SerializeField] PokemonTypes type1;
+    [SerializeField] PokemonTypes type2;
+
+    [SerializeField] int maxHp;
+    [SerializeField] int attack;
+    [SerializeField] int defense;
+    [SerializeField] int spAttack;
+    [SerializeField] int spDefense;
+    [SerializeField] int speed;
+
+    [SerializeField] List<GetLearnableMoves> learnableMoves;
+
+    public int ID { get { return id; } }
+    public string Name { get { return name; } }
+    public string Description { get { return description; } }
+    public Sprite Front { get { return front; } }
+    public Sprite Back { get { return back; } }
+    public PokemonTypes Type1 { get { return type1; } }
+    public PokemonTypes Type2 { get { return type2; } }
+    public int MaxHp { get { return maxHp; } }
+    public int Attack { get { return attack; } }
+    public int Defense { get { return defense; } }
+    public int SpAttack { get { return spAttack; } }
+    public int SpDefense { get { return spDefense; } }
+    public int Speed { get { return speed; } }
+    public List<GetLearnableMoves> LearnableMoves { get { return learnableMoves; } }
 }

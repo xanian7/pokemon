@@ -1,14 +1,26 @@
-using System.Collections;
-using System.Collections.Generic;
+using Assets.Scripts.Pokemon;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Unit : MonoBehaviour
 {
-    public string unitName;
-    public int unitLevel;
+    [SerializeField] PokemonModel structure;
+    [SerializeField] int level;
 
-    public int damage;
+    bool isPlayer;
 
-    public int maxHP;
-    public int currentHP;
+    public GetPokemon pokemon { get; set; }
+
+    public void Setup()
+    {
+        pokemon = new GetPokemon(structure, level);
+        if (isPlayer)
+        {
+            GetComponent<Image>().sprite = pokemon.Model.Back;
+        }
+        else
+        {
+            GetComponent<Image>().sprite = pokemon.Model.Front;
+        }
+    }
 }
